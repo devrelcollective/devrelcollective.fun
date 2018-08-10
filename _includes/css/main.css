@@ -22,7 +22,8 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #FFFFFF;
+    text-decoration: underline;
 }
 
 h1,
