@@ -41,7 +41,7 @@ address:
   - line: San Francisco, CA (<a href="https://twitter.com/bffjossy">Jocelyn</a>)
 
 # Credits content
-credits: 'Our collective is an inclusive thought experiment started by Dave Josephsen. This site is build by <a href="https://twitter.com/mbbroberg">Matt Broberg</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Our collective is an inclusive thought experiment started by Dave Josephsen. This site is built by <a href="https://twitter.com/mbbroberg">Matt Broberg</a> on Freelancer: a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
