@@ -1,0 +1,9 @@
+
+<!-- Run through the jobs.yaml file and list out all the entries -->
+{{ if $.Site.Data.jobs }}
+  {{ range $.Site.Data.jobs.jobs }}
+    <a href={{ .link }} target="_blank" class="btn-outline">{{ .value }}</a>
+  {{ end }}
+{{ else }}
+  <p>No Resources</p>
+{{ end }}

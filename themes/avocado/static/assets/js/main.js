@@ -99,7 +99,7 @@
 
 							// Hide header, footer.
 								$header.hide();
-							//	$footer.hide();
+								$footer.hide();
 
 							// Show main, article.
 								$main.show();
@@ -173,7 +173,7 @@
 
 								// Hide header, footer.
 									$header.hide();
-								//	$footer.hide();
+									$footer.hide();
 
 								// Show main, article.
 									$main.show();
