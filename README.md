@@ -20,9 +20,17 @@ name: Sally Admin
 twitter: supersally
 airport: Timbuk 3
 ```
-Notice that the twitter entry is *just* their username, no `@` or URL, etc. 
+Notice that the twitter entry is *just* their username, no `@` or URL, etc.
 
 To remove an admin, simply delete the corresponding file from the `/data/admins` directory.
+
+If you wish to add a new link to the `Resources` page, you can edit the `/data/resources/resources.yaml` file:
+```yaml
+- link: "https://your.link.to.add"
+  value: "The text you want the link to display"
+```
+
+Same exact format to add to the Jobs listing page. `/data/jobs/jobs.yaml`
 
 ## Credits
 
