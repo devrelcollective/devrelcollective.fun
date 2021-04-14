@@ -1,0 +1,10 @@
+
+<div class="resources">
+{{ if $.Site.Data.resources }}
+  {{ range $.Site.Data.resources.resources }}
+    <a href={{ .link }} target="_blank" class="btn-outline">{{ .value }}</a>
+  {{ end }}
+{{ else }}
+  <p>No Resources</p>
+{{ end }}
+</div>

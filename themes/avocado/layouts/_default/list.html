@@ -1,10 +1,8 @@
 {{ partial "header.html" . }}
 
 <body class="is-preload">
-
     <!-- Wrapper -->
         <div id="wrapper">
-
             <!-- Header -->
                 <header id="header">
                     <div class="logo">
@@ -42,10 +40,8 @@
                     <a href="https://devrelcollective.typeform.com/to/YnQuVJ" target="self" class="btn-outline"
                       style="color:#FFFFFF; text-transform: uppercase;font-size: 1rem;">Request an Invite</a>
                 </header>
-
             <!-- Main -->
                 <div id="main">
-
                     {{ range .Pages }}
                         {{if .Title }}
                             {{if .Content }}
@@ -53,20 +49,21 @@
                                     <h2 class="major">{{ .Title }}</h2>
                                     <span class="image main"><img src="{{ .Params.image }}" alt="" /></span>
                                     {{ .Content }}
+                                    {{ if eq .Title "Resources"}}
+                                      {{ partial "resources.html" . }}
+                                    {{ else if eq .Title "Jobs" }}
+                                      {{ partial "jobs.html" . }}
+                                    {{ else }}
+                                      
+                                    {{ end }}
                                 </article>
                             {{ end }}
                         {{ end }}
                     {{ end }}
-
                 </div>
-
                 {{ partial "design.html" .}}
-
         </div>
-
     <!-- BG -->
     <div id="bg"></div>
-
 </body>
-
 {{ partial "footer.html" .}}
