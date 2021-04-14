@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c9dbbb4a-5ea3-4214-bb24-3d45a83ff2d0/deploy-status)](https://app.netlify.com/sites/drc-dev/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c9dbbb4a-5ea3-4214-bb24-3d45a83ff2d0/deploy-status)](https://app.netlify.com/sites/devrelcollective/deploys)
 
 # DevRel Collective Homepage
 
