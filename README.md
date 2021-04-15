@@ -24,13 +24,17 @@ Notice that the twitter entry is *just* their username, no `@` or URL, etc.
 
 To remove an admin, simply delete the corresponding file from the `/data/admins` directory.
 
-If you wish to add a new link to the `Resources` page, you can edit the `/data/resources/resources.yaml` file:
-```yaml
-- link: "https://your.link.to.add"
-  value: "The text you want the link to display"
-```
+If you wish to add a new link to the `Resources` page, you can edit the files in `/data/resources/` directory:
 
-Same exact format to add to the Jobs listing page. `/data/jobs/jobs.yaml`
+```yaml
+category: "Foo and Bar"
+links:
+  - link: "https://your.link.to.add"
+    value: "The text you want the link to display"
+```
+If this is a new category you're adding, add a new file called `bar.yaml` with the above structure. The `category` field will become the sub-heading, and all the `link:value` pairs will be the links and their linked-text values.
+
+For the Jobs listing page, add to (or delete lines from) `/data/jobs/jobs.yaml`
 
 ## Credits
 

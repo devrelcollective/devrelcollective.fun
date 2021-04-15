@@ -1,10 +1,13 @@
 
 <div class="resources">
 {{ if $.Site.Data.resources }}
-  {{ range $.Site.Data.resources.resources }}
-    <a href={{ .link }} target="_blank" class="btn-outline">{{ .value }}</a>
+  {{ $sorted := sort .Site.Data.resources }}
+  {{ range $sorted}}
+    <h3>{{ .category }}</h3>
+    {{ range .links }}
+        <a href={{ .link }} target="_blank" class="btn-outline">{{ .value }}</a>
+    {{ end }}
   {{ end }}
-{{ else }}
-  <p>No Resources</p>
+
 {{ end }}
 </div>
