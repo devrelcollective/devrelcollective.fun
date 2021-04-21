@@ -3,7 +3,7 @@ title: About us
 image: images/profile.png
 ---
 ## About us
-The DevRel Collective exists as a place for DevRel professionals, Community Managers, and others to share resources, learn best practices, support one another, and be amongst our peers. We participate in and nurture communities as our jobs, but we, too need a community of our own. This is that place. We are over **1,800 professionals** (and growing all the time!) from all walks of life and all over the world.
+The DevRel Collective exists as a place for DevRel professionals, Community Managers, and others to share resources, learn best practices, support one another, and be amongst our peers. We participate in and nurture communities as our jobs, but we, too, need a community of our own. This is that place. We are over **1,800 professionals** (and growing all the time!) from all walks of life and all over the world.
 
 If you're a DevRel Professional and are looking for your people, here we are! Join us!
 
