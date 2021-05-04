@@ -13,7 +13,10 @@ Pull Requests are more than welcome as we coordinate efforts. Here are a few not
 
 ### Editing The Site
 
-This is a Hugo site, which means that most changes can be made via configuration files. If you need to add a new admin's contact to the site, create a new file in the `/data/admins` directory with the new admin's name as the name of the file. So if sally is a new admin, add `sally.yaml` to the `/data/admins` directory with the following fields:
+This is a Hugo site, which means that most changes can be made via configuration files.
+
+#### Adding new Admins
+If you need to add a new admin's contact to the site, create a new file in the `/data/admins` directory with the new admin's name as the name of the file. So if sally is a new admin, add `sally.yaml` to the `/data/admins` directory with the following fields:
 
 ```yaml
 name: Sally Admin
@@ -24,6 +27,7 @@ Notice that the twitter entry is *just* their username, no `@` or URL, etc.
 
 To remove an admin, simply delete the corresponding file from the `/data/admins` directory.
 
+#### Adding new Resources
 If you wish to add a new link to the `Resources` page, you can edit the files in `/data/resources/` directory:
 
 ```yaml
@@ -33,6 +37,8 @@ links:
     value: "The text you want the link to display"
 ```
 If this is a new category you're adding, add a new file called `bar.yaml` with the above structure. The `category` field will become the sub-heading, and all the `link:value` pairs will be the links and their linked-text values.
+
+#### Adding new job listing resources
 
 For the Jobs listing page, add to (or delete lines from) `/data/jobs/jobs.yaml`
 
