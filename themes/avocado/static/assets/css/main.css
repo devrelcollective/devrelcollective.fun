@@ -1397,6 +1397,7 @@ input, select, textarea {
 				padding-left: 0;
 				border-left: solid 1px #ffffff;
         color: #ffffff;
+        min-width: 120px;
 			}
 
 				#header nav ul li:first-child {
