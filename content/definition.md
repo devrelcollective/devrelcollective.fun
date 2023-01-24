@@ -1,5 +1,5 @@
 ---
-title: About us
+title: A Working definition of DevRel
 image: images/profile.png
 ---
 
