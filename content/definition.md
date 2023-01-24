@@ -1,5 +1,5 @@
 ---
-title: A Working definition of DevRel
+title: DevRel Definition
 image: images/profile.png
 ---
 
