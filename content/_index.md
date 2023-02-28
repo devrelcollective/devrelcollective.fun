@@ -1,7 +1,7 @@
 ---
 title: DevRel Collective
-description: Advocates - Community Managers - Evangelists
+description: Dev Advocacy - Technical Community Management - Dev Experience
 background: "images/bg.jpg"
 logo: "images/profile.png"
-meta: "DevRel Collective 🥑 - and So Can You! exists to facilitate sharing information, resources, and encouragement among the Developer Relations community."
+meta: "The DevRel Collective 🥑 exists to facilitate sharing information, resources, and encouragement among the Developer Relations community."
 ---
