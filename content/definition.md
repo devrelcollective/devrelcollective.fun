@@ -21,7 +21,7 @@ Developer Relations is, in its ideal abstract, "paid altruism". Companies pay pe
 
 - Developer Advocacy
 - Technical Evangelism
-- Community Management
+- Technical Community Management
 - Developer Experience
 
 These roles exist to work with, and for, the broader community of the tech industry. The primary goal is to meet the needs of the technologists in that community as well as deliver feedback internally to employers about gaps and trends in the market or concerning their product that those in the DevRel organization and discipline notice. How this is functionally implemented will vary depending on the type of parent company as well as organizational reporting structure.
