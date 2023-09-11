@@ -8,7 +8,7 @@ image: images/profile.png
 We define a "DevRel Practitioner" as one who performs the functions of "Dev Advocates / Community Managers / Developer Experience" as their sole, full-time job. There are many roles that are related, and while we recognize their contributions, we do not class them as a DevRel Practitioner. These could include those who:
 
 - as an adjacent or separate function of their full time role, run a meetup group or organization; or
-- perfors some tasks which may involve writing blog posts, speaking at some events, and others, while also primarily filling a different role in their company, like:
+- performs some tasks which may involve writing blog posts, speaking at some events, and others, while also primarily filling a different role in their company, like:
   - Software Engineer
   - Product Manager
   - C-level
