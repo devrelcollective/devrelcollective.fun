@@ -47,6 +47,10 @@ If this is a new category you're adding, add a new file called `bar.yaml` with t
 
 For the Jobs listing page, add to (or delete lines from) `/data/jobs/jobs.yaml`
 
+## Name and logo usage
+
+We kindly request that the community name and/or logo of the Devrel Collective not be used without our express written permission. The best way to do this in public is to create a [GitHub issue](https://github.com/devrelcollective/brand/issues).
+
 ## Credits
 
 We rock a [MIT License](https://opensource.org/licenses/MIT). The Hugo theme is Avocado, which is based on [Dimension](https://github.com/your-identity/hugo-theme-dimension/). [David Simmons](https://github.com/davidgs) made the site.
