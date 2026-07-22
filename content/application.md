@@ -12,6 +12,9 @@ A brief primer on how we process and evaluate applications to join the [DevRel C
 - The Admin Team is not looking to *exclude* people, but to *include* DevRel Professionals
 
 ## The Process
+We're currently running with a very light skeleton crew on the (volunteer) admin team. and have paused application 
+<!-- 
+## The Process
 All Applicants must submit the [application form](https://devrelcollective.typeform.com/to/YnQuVJ). Once an application form is submitted, a member of the Admin team will review the application, typically within two weeks' time.
 
 Direct invites to the Slack group are not allowed by members of the community, and will be rejected automatically. We have found that having a basic application process, overseen by the Admin Team, has been effective in keeping the community cohesive and a 'safe' place to share about being a DevRel.
@@ -37,3 +40,4 @@ We have found that this group is best suited for those who are actively doing De
 > **Note:** If your application is approved you will be sent an invite to join the Slack community. Slack invites are valid for approximately 90 days. If you have not accepted your invitation in that time and your invitation expires you will need to re-apply.
 
 We look forward to your [application](https://devrelcollective.typeform.com/to/YnQuVJ)
+-->
