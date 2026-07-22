@@ -13,5 +13,6 @@ We feel it’s important for those of us who are pursuing this career to have a 
 If you are actively involved in developer communities or event management, we welcome your input on our public Github repos and appreciate your support! Please let us know if there is anything we can do to support you. If you are curious about Developer Relations, whether as a potential career path or as a company, please take a look at the resources listed below and don’t hesitate to ask if you have any questions.
 
 {{< button url="https://goo.gl/gLmnim" target="self" class="btn-outline" value="Our Code of Conduct" >}}
-
+<!--
 {{< button url="https://devrelcollective.typeform.com/to/YnQuVJ" target="self" class="btn-outline" value="Request An Invite" >}}
+-->
