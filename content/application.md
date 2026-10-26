@@ -3,6 +3,9 @@ title: Application
 image: images/profile.png
 ---
 
+# The Devrel Collective has paused applications for the time being in order to make some fundamental changes to the overall community. Please stay tuned!
+
+<!--
 # How our Application Process Works
 A brief primer on how we process and evaluate applications to join the [DevRel Collective](https://devrelcollective.fun) Slack community.
 
@@ -12,13 +15,18 @@ A brief primer on how we process and evaluate applications to join the [DevRel C
 - The Admin Team is not looking to *exclude* people, but to *include* DevRel Professionals
 
 ## The Process
-We're currently running with a very light skeleton crew on the (volunteer) admin team. and have paused application 
-<!-- 
+We're currently running with a very light skeleton crew on the (volunteer) admin team. and have paused application
+<!--
 ## The Process
 All Applicants must submit the [application form](https://devrelcollective.typeform.com/to/YnQuVJ). Once an application form is submitted, a member of the Admin team will review the application, typically within two weeks' time.
+-->
+## Note to members or prospective members
 
 Direct invites to the Slack group are not allowed by members of the community, and will be rejected automatically. We have found that having a basic application process, overseen by the Admin Team, has been effective in keeping the community cohesive and a 'safe' place to share about being a DevRel.
 
+**Please** do not ask a current member to simply invite you since that invitation will be rejected and it simply adds workload to an already overwhelmed bunch of community managers.
+
+<!--
 Applicants who don't have a traditional DevRel title are typically rejected by the application process itself, before an Admin Team Member even sees the application. In those cases, the applicant sees an immediate response from the form itself stating that their application has been rejected, and informing them that they can reach out to the Admin Team with further detailed information if they feel like their application was rejected in error.
 
 > **Note:** We *strongly* discourage simply re-applying and changing one thing on the application in hopes of being admitted. Any attempts to 'game the system' are not looked upon favorably.
